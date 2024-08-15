@@ -12,7 +12,7 @@ The page will reload when you make changes.
 You may also see any lint errors in the console.
 
 Hosted On
-open https://kajal-ecomm.netlify.app/ to view it in your browser
+open https://amarjeet-sagar.github.io/E-commerce/ to view it in your browser
 
 Features
 All the featuere works on temporary which is ADD, DELETE and UPDATE (except fetch).
